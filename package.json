@@ -13,9 +13,9 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "@octokit/rest": "^17.1.4",
-    "https": "^1.0.0",
-    "node-fetch": "^2.6.0",
+    "@octokit/rest": "17.1.4",
+    "https": "1.0.0",
+    "node-fetch": "2.6.0",
     "simple-git": "2.8.0"
   }
 }

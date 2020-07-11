@@ -1,4 +1,4 @@
-# automata	
+# Automata	
 
 A repo containing some tools to automate a github process
 It can be used from any local repository
